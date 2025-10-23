@@ -1,0 +1,20 @@
+{
+  "name": "spoon-vortexlogic",
+  "version": "7.0.0",
+  "description": "VORTEXLOGIC META-CLI - Quantum Terminal Automation Platform",
+  "main": "spoon-v7.js",
+  "bin": {
+    "spoon": "./spoon-v7.js"
+  },
+  "keywords": [
+    "cli",
+    "automation",
+    "vortexlogic",
+    "quantum"
+  ],
+  "author": "VortexLogic Systems",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
+}
